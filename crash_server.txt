@@ -1,0 +1,425 @@
+[03:21:52] Long callback execution detected (hang or performance issue)
+[03:21:52] AMX backtrace:
+[03:21:52] #0 00009084 in ?? (543497352, -1, 0) in gm.amx
+[03:21:52] #1 000086c0 in ?? (543497352, 543147424, 543497252, 16, 542756368) in gm.amx
+[03:21:52] #2 00008868 in ?? (543497352, 543147424, 542756368) in gm.amx
+[03:21:52] #3 0018cda0 in ?? () in gm.amx
+[03:21:52] #4 000599bc in public fcnpc0_OnGameModeInit () in gm.amx
+[03:21:52] #5 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[03:21:52] #6 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[03:21:52] #7 native CallLocalFunction () in samp-server.exe
+[03:21:52] #8 0000058c in public OnGameModeInit () in gm.amx
+[16:06:38] Long callback execution detected (hang or performance issue)
+[16:06:39] AMX backtrace:
+[16:06:39] #0 00009c98 in ?? (543495652, 543495140, 543494628, 128, 128) in gm.amx
+[16:06:39] #1 00009424 in ?? (543497352, -1, 0) in gm.amx
+[16:06:39] #2 000086c0 in ?? (543497352, 543147424, 543497252, 16, 542756368) in gm.amx
+[16:06:39] #3 00008868 in ?? (543497352, 543147424, 542756368) in gm.amx
+[16:06:39] #4 0018cda0 in ?? () in gm.amx
+[16:06:39] #5 000599bc in public fcnpc0_OnGameModeInit () in gm.amx
+[16:06:39] #6 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[16:06:39] #7 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[16:06:39] #8 native CallLocalFunction () in samp-server.exe
+[16:06:39] #9 0000058c in public OnGameModeInit () in gm.amx
+[17:22:06] Long callback execution detected (hang or performance issue)
+[17:22:06] AMX backtrace:
+[17:22:06] #0 0018db20 in ?? (35) in gm.amx
+[17:22:06] #1 0018d05c in ?? () in gm.amx
+[17:22:06] #2 000599bc in public fcnpc0_OnGameModeInit () in gm.amx
+[17:22:06] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[17:22:06] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[17:22:06] #5 native CallLocalFunction () in samp-server.exe
+[17:22:06] #6 0000058c in public OnGameModeInit () in gm.amx
+[18:01:56] Long callback execution detected (hang or performance issue)
+[18:01:57] AMX backtrace:
+[18:01:57] #0 0013776c in ?? () in gm.amx
+[18:01:57] #1 00059504 in public fcnpc0_OnGameModeInit () in gm.amx
+[18:01:57] #2 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[18:01:57] #3 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[18:01:57] #4 native CallLocalFunction () in samp-server.exe
+[18:01:57] #5 0000058c in public OnGameModeInit () in gm.amx
+[18:11:49] Long callback execution detected (hang or performance issue)
+[18:11:49] AMX backtrace:
+[18:11:49] #0 0018dbd8 in ?? (31) in gm.amx
+[18:11:49] #1 0018d05c in ?? () in gm.amx
+[18:11:49] #2 000599bc in public fcnpc0_OnGameModeInit () in gm.amx
+[18:11:49] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[18:11:49] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[18:11:49] #5 native CallLocalFunction () in samp-server.exe
+[18:11:49] #6 0000058c in public OnGameModeInit () in gm.amx
+[13:06:18] Long callback execution detected (hang or performance issue)
+[13:06:18] AMX backtrace:
+[13:06:18] #0 000264d8 in public fcnpc0_OnGameModeInit () in gm.amx
+[13:06:18] #1 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[13:06:18] #2 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[13:06:18] #3 native CallLocalFunction () in samp-server.exe
+[13:06:18] #4 0000058c in public OnGameModeInit () in gm.amx
+[13:37:38] Long callback execution detected (hang or performance issue)
+[13:37:38] AMX backtrace:
+[13:37:38] #0 0000a0c0 in ?? (5134872, 48380) in gm.amx
+[13:37:38] #1 00008cfc in ?? () in gm.amx
+[13:37:38] #2 001b1454 in ?? (0) in gm.amx
+[13:37:38] #3 000ec214 in ?? (0) in gm.amx
+[13:37:38] #4 001cf814 in public PlayerTimer (0) in gm.amx
+[10:29:28] Long callback execution detected (hang or performance issue)
+[10:29:28] AMX backtrace:
+[10:29:28] #0 0018db38 in ?? (15) in gm.amx
+[10:29:28] #1 0018d05c in ?? () in gm.amx
+[10:29:28] #2 000599bc in public fcnpc0_OnGameModeInit () in gm.amx
+[10:29:28] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[10:29:28] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[10:29:28] #5 native CallLocalFunction () in samp-server.exe
+[10:29:28] #6 0000058c in public OnGameModeInit () in gm.amx
+[10:45:51] Run time error 4: "Array index out of bounds"
+[10:45:51]  Attempted to read/write array element at negative index -1
+[10:45:51] AMX backtrace:
+[10:45:51] #0 0012e6f0 in ?? (-1) in gm.amx
+[10:45:51] #1 0006b2e0 in public cmd_pegarscripter12345 (0, 543265740) in gm.amx
+[10:45:51] #2 native CallLocalFunction () in samp-server.exe
+[10:45:51] #3 00000804 in public OnPlayerCommandText (0, 543265660) in gm.amx
+[15:24:12] Long callback execution detected (hang or performance issue)
+[15:24:12] AMX backtrace:
+[15:24:12] #0 0013776c in ?? () in gm.amx
+[15:24:12] #1 00059504 in public fcnpc0_OnGameModeInit () in gm.amx
+[15:24:12] #2 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[15:24:12] #3 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[15:24:12] #4 native CallLocalFunction () in samp-server.exe
+[15:24:12] #5 0000058c in public OnGameModeInit () in gm.amx
+[15:35:43] Long callback execution detected (hang or performance issue)
+[15:35:43] AMX backtrace:
+[15:35:43] #0 0000908c in ?? (543526744, -1, 0) in gm.amx
+[15:35:43] #1 000086c0 in ?? (543526744, 543176816, 543526644, 16, 542785760) in gm.amx
+[15:35:43] #2 00008868 in ?? (543526744, 543176816, 542785760) in gm.amx
+[15:35:43] #3 0018cda0 in ?? () in gm.amx
+[15:35:43] #4 000599bc in public fcnpc0_OnGameModeInit () in gm.amx
+[15:35:43] #5 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[15:35:43] #6 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[15:35:43] #7 native CallLocalFunction () in samp-server.exe
+[15:35:43] #8 0000058c in public OnGameModeInit () in gm.amx
+[21:40:44] Long callback execution detected (hang or performance issue)
+[21:40:45] AMX backtrace:
+[21:40:45] #0 001729d0 in ?? (874, 1153554548, -992869313, 1085385631, 0, 0, -1040082542, -1, -1) in gm.amx
+[21:40:45] #1 001745a8 in ?? () in gm.amx
+[21:40:45] #2 0009634c in public fcnpc0_OnGameModeInit () in gm.amx
+[21:40:45] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[21:40:45] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[21:40:45] #5 native CallLocalFunction () in samp-server.exe
+[21:40:45] #6 0000058c in public OnGameModeInit () in gm.amx
+[21:43:55] Long callback execution detected (hang or performance issue)
+[21:43:55] AMX backtrace:
+[21:43:55] #0 00135e38 in ?? (201, 100) in gm.amx
+[21:43:55] #1 000924f0 in public FCNPC_OnSpawn (201) in gm.amx
+[22:05:04] Long callback execution detected (hang or performance issue)
+[22:05:04] AMX backtrace:
+[22:05:04] #0 001ca918 in ?? (33) in gm.amx
+[22:05:04] #1 001c9e84 in ?? () in gm.amx
+[22:05:04] #2 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[22:05:04] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[22:05:04] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[22:05:04] #5 native CallLocalFunction () in samp-server.exe
+[22:05:04] #6 0000058c in public OnGameModeInit () in gm.amx
+[22:15:43] Long callback execution detected (hang or performance issue)
+[22:15:43] AMX backtrace:
+[22:15:43] #0 001ca9c4 in ?? (84) in gm.amx
+[22:15:43] #1 001c9ea8 in ?? () in gm.amx
+[22:15:43] #2 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[22:15:43] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[22:15:43] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[22:15:43] #5 native CallLocalFunction () in samp-server.exe
+[22:15:43] #6 0000058c in public OnGameModeInit () in gm.amx
+[22:17:00] Long callback execution detected (hang or performance issue)
+[22:17:00] AMX backtrace:
+[22:17:00] #0 001ca93c in ?? (113) in gm.amx
+[22:17:00] #1 001c9ea8 in ?? () in gm.amx
+[22:17:00] #2 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[22:17:00] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[22:17:00] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[22:17:00] #5 native CallLocalFunction () in samp-server.exe
+[22:17:00] #6 0000058c in public OnGameModeInit () in gm.amx
+[00:10:25] Long callback execution detected (hang or performance issue)
+[00:10:25] AMX backtrace:
+[00:10:25] #0 001ca968 in ?? (27) in gm.amx
+[00:10:25] #1 001c9ed4 in ?? () in gm.amx
+[00:10:25] #2 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[00:10:25] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[00:10:25] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[00:10:25] #5 native CallLocalFunction () in samp-server.exe
+[00:10:25] #6 0000058c in public OnGameModeInit () in gm.amx
+[00:44:38] Long callback execution detected (hang or performance issue)
+[00:44:38] AMX backtrace:
+[00:44:38] #0 00009044 in ?? (543527688, -1, 0) in gm.amx
+[00:44:38] #1 000086c0 in ?? (543527688, 543187768, 543527588, 16, 542796364) in gm.amx
+[00:44:38] #2 00008868 in ?? (543527688, 543187768, 542796364) in gm.amx
+[00:44:38] #3 001c9c18 in ?? () in gm.amx
+[00:44:38] #4 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[00:44:38] #5 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[00:44:38] #6 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[00:44:38] #7 native CallLocalFunction () in samp-server.exe
+[00:44:38] #8 0000058c in public OnGameModeInit () in gm.amx
+[01:15:30] Long callback execution detected (hang or performance issue)
+[01:15:30] AMX backtrace:
+[01:15:30] #0 0013247c in ?? (25, 1157675236, -993619170, 1095237294, 1, 0, 0, 7, -1, 0) in gm.amx
+[01:15:30] #1 001caf10 in ?? (99) in gm.amx
+[01:15:30] #2 001c9ff8 in ?? () in gm.amx
+[01:15:30] #3 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[01:15:30] #4 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[01:15:30] #5 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[01:15:30] #6 native CallLocalFunction () in samp-server.exe
+[01:15:30] #7 0000058c in public OnGameModeInit () in gm.amx
+[01:17:37] Long callback execution detected (hang or performance issue)
+[01:17:37] AMX backtrace:
+[01:17:37] #0 000165b4 in ?? (201, 6, 19472, 2, 1006834287, 1040455823, 998445636, 1090519029, 1118424266, 1118555336, ... <5 more arguments>) in gm.amx
+[01:17:37] #1 001362f4 in ?? (201, 100) in gm.amx
+[01:17:37] #2 000924f0 in public FCNPC_OnSpawn (201) in gm.amx
+[01:28:15] Long callback execution detected (hang or performance issue)
+[01:28:15] AMX backtrace:
+[01:28:15] #0 001cae5c in ?? (58) in gm.amx
+[01:28:15] #1 001ca3d0 in ?? () in gm.amx
+[01:28:15] #2 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[01:28:15] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[01:28:15] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[01:28:15] #5 native CallLocalFunction () in samp-server.exe
+[01:28:15] #6 0000058c in public OnGameModeInit () in gm.amx
+[01:31:14] Long callback execution detected (hang or performance issue)
+[01:31:14] AMX backtrace:
+[01:31:14] #0 002041bc in ?? (511417468) in gm.amx
+[01:31:14] #1 00092538 in public FCNPC_OnSpawn (201) in gm.amx
+[01:54:29] Long callback execution detected (hang or performance issue)
+[01:54:29] AMX backtrace:
+[01:54:29] #0 001caeb4 in ?? (11) in gm.amx
+[01:54:29] #1 001ca3d0 in ?? () in gm.amx
+[01:54:29] #2 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[01:54:29] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[01:54:29] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[01:54:29] #5 native CallLocalFunction () in samp-server.exe
+[01:54:29] #6 0000058c in public OnGameModeInit () in gm.amx
+[02:06:15] Long callback execution detected (hang or performance issue)
+[02:06:15] AMX backtrace:
+[02:06:15] #0 00009db0 in ?? (543526236, 543525724, 543525212, 128, 128) in gm.amx
+[02:06:15] #1 00009424 in ?? (543527936, -1, 0) in gm.amx
+[02:06:15] #2 000086c0 in ?? (543527936, 543188016, 543527836, 16, 542796776) in gm.amx
+[02:06:15] #3 00008868 in ?? (543527936, 543188016, 542796776) in gm.amx
+[02:06:15] #4 001ca114 in ?? () in gm.amx
+[02:06:15] #5 00096804 in public fcnpc0_OnGameModeInit () in gm.amx
+[02:06:15] #6 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[02:06:15] #7 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[02:06:15] #8 native CallLocalFunction () in samp-server.exe
+[02:06:15] #9 0000058c in public OnGameModeInit () in gm.amx
+[02:24:00] Long callback execution detected (hang or performance issue)
+[02:24:00] AMX backtrace:
+[02:24:00] #0 00172f04 in ?? (874, 1153554548, -992869313, 1085385631, 0, 0, -1040082542, -1, -1) in gm.amx
+[02:24:00] #1 00174adc in ?? () in gm.amx
+[02:24:00] #2 0009634c in public fcnpc0_OnGameModeInit () in gm.amx
+[02:24:00] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[02:24:00] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[02:24:00] #5 native CallLocalFunction () in samp-server.exe
+[02:24:00] #6 0000058c in public OnGameModeInit () in gm.amx
+[09:32:48] Long callback execution detected (hang or performance issue)
+[09:32:48] AMX backtrace:
+[09:32:48] #0 001caee0 in ?? (16) in gm.amx
+[09:32:48] #1 001ca3f8 in ?? () in gm.amx
+[09:32:48] #2 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[09:32:48] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[09:32:48] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[09:32:48] #5 native CallLocalFunction () in samp-server.exe
+[09:32:48] #6 0000058c in public OnGameModeInit () in gm.amx
+[09:57:28] Long callback execution detected (hang or performance issue)
+[09:57:28] AMX backtrace:
+[09:57:28] #0 0016b308 in ?? (543527956, 1158476228, -995413949, 1102563079, 1157928635, -994473610, 1102567432) in gm.amx
+[09:57:28] #1 001cb2b4 in ?? (100) in gm.amx
+[09:57:28] #2 001ca658 in ?? () in gm.amx
+[09:57:28] #3 0009ed0c in public fcnpc0_OnGameModeInit () in gm.amx
+[09:57:28] #4 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[09:57:28] #5 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[09:57:28] #6 native CallLocalFunction () in samp-server.exe
+[09:57:28] #7 0000058c in public OnGameModeInit () in gm.amx
+[10:17:14] Long callback execution detected (hang or performance issue)
+[10:17:14] AMX backtrace:
+[10:17:14] #0 001cae88 in ?? (66) in gm.amx
+[10:17:14] #1 001ca3d8 in ?? () in gm.amx
+[10:17:14] #2 0009ea8c in public fcnpc0_OnGameModeInit () in gm.amx
+[10:17:14] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[10:17:14] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[10:17:14] #5 native CallLocalFunction () in samp-server.exe
+[10:17:14] #6 0000058c in public OnGameModeInit () in gm.amx
+[10:31:20] Long callback execution detected (hang or performance issue)
+[10:31:20] AMX backtrace:
+[10:31:20] #0 00172f0c in ?? (874, 1153554548, -992869313, 1085385631, 0, 0, -1040082542, -1, -1) in gm.amx
+[10:31:20] #1 00174ae4 in ?? () in gm.amx
+[10:31:20] #2 0009e5d4 in public fcnpc0_OnGameModeInit () in gm.amx
+[10:31:20] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[10:31:20] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[10:31:20] #5 native CallLocalFunction () in samp-server.exe
+[10:31:20] #6 0000058c in public OnGameModeInit () in gm.amx
+[11:14:17] Long callback execution detected (hang or performance issue)
+[11:14:17] AMX backtrace:
+[11:14:17] #0 0017494c in ?? () in gm.amx
+[11:14:17] #1 0009e5d4 in public fcnpc0_OnGameModeInit () in gm.amx
+[11:14:17] #2 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[11:14:17] #3 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[11:14:17] #4 native CallLocalFunction () in samp-server.exe
+[11:14:17] #5 0000058c in public OnGameModeInit () in gm.amx
+[11:43:02] Long callback execution detected (hang or performance issue)
+[11:43:02] AMX backtrace:
+[11:43:02] #0 0016b15c in ?? (543527944, 1161191299, -993559455, 1096736948, 1143703271, -1008742581, 1100293301) in gm.amx
+[11:43:02] #1 001cb034 in ?? (91) in gm.amx
+[11:43:02] #2 001ca3d8 in ?? () in gm.amx
+[11:43:02] #3 0009ea8c in public fcnpc0_OnGameModeInit () in gm.amx
+[11:43:02] #4 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[11:43:02] #5 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[11:43:02] #6 native CallLocalFunction () in samp-server.exe
+[11:43:02] #7 0000058c in public OnGameModeInit () in gm.amx
+[11:48:21] Long callback execution detected (hang or performance issue)
+[11:48:21] AMX backtrace:
+[11:48:21] #0 001cae58 in ?? (80) in gm.amx
+[11:48:21] #1 001ca3d8 in ?? () in gm.amx
+[11:48:21] #2 0009ea8c in public fcnpc0_OnGameModeInit () in gm.amx
+[11:48:21] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[11:48:21] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[11:48:21] #5 native CallLocalFunction () in samp-server.exe
+[11:48:21] #6 0000058c in public OnGameModeInit () in gm.amx
+[11:58:40] Long callback execution detected (hang or performance issue)
+[11:58:40] AMX backtrace:
+[11:58:40] #0 00009158 in ?? (543527300, -1, 0) in gm.amx
+[11:58:40] #1 000086c0 in ?? (543527300, 543187380, 543527200, 16, 542507256) in gm.amx
+[11:58:40] #2 00008868 in ?? (543527300, 543187380, 542507256) in gm.amx
+[11:58:40] #3 001c932c in ?? () in gm.amx
+[11:58:40] #4 0009dc9c in public fcnpc0_OnGameModeInit () in gm.amx
+[11:58:40] #5 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[11:58:40] #6 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[11:58:40] #7 native CallLocalFunction () in samp-server.exe
+[11:58:40] #8 0000058c in public OnGameModeInit () in gm.amx
+[12:005:54] Long caalback exexccution ddeecctedd (ha(h orapng or performce issue)
+)
+[12[15:505:58] AMX backtra
+[12:
+05:58] :#8] #0 00030 in ?? () ? (54gm.am3
+5277325:-1,  #1 n gm0amx0
+9[12: 05:p5bl]  #1n c0_0O86c0 ino eInit (3) in gm.amx
+8[12:0 543527 #2 0 000bd30 in p8)blic  SCnAgm.amnGxmMo[e12i: () 58n] #2 000
+0[862: i5 ?58 ]5 3#277002, 004d1870812, 542507688)_O in gm.amx
+i[12:05:58] #3 0
+01ca105:58] ?? () in gmCaamlxoa[Functio5n () in samap-server.exe
+fcn2p05:58] #5eModeIn58c in pn gb.lmx
+ O1nGameModeInit0()0 d30 gnmpubmli
+c SSCANF_OnGameModeInit () in gm.amx
+[12:05:58] #6 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[12:05:58] #7 native CallLocalFunction () in samp-server.exe
+[12:05:58] #8 0000058c in public OnGameModeInit () in gm.amx
+[12:56:02] Long callback execution detected (hang or performance issue)
+[12:56:02] AMX backtrace:
+[12:56:02] #0 001cae94 in ?? (67) in gm.amx
+[12:56:02] #1 001ca3f8 in ?? () in gm.amx
+[12:56:02] #2 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[12:56:02] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[12:56:02] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[12:56:02] #5 native CallLocalFunction () in samp-server.exe
+[12:56:02] #6 0000058c in public OnGameModeInit () in gm.amx
+[13:01:58] Long callback execution detected (hang or performance issue)
+[13:01:58] AMX backtrace:
+[13:01:58] #0 001cb02c in ?? (18) in gm.amx
+[13:01:58] #1 001ca3f8 in ?? () in gm.amx
+[13:01:58] #2 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[13:01:58] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[13:01:58] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[13:01:58] #5 native CallLocalFunction () in samp-server.exe
+[13:01:58] #6 0000058c in public OnGameModeInit () in gm.amx
+[16:31:15] Long callback execution detected (hang or performance issue)
+[16:31:15] AMX backtrace:
+[16:31:15] #0 00009c3c in ?? (543526216, 543525704, 543525192, 128, 128) in gm.amx
+[16:31:15] #1 00009424 in ?? (543527904, -1, 0) in gm.amx
+[16:31:15] #2 000086c0 in ?? (543527904, 543223176, 543527816, 16, 542507516) in gm.amx
+[16:31:15] #3 00008868 in ?? (543527904, 543223176, 542507516) in gm.amx
+[16:31:15] #4 001f1bbc in ?? () in gm.amx
+[16:31:15] #5 0009e5b0 in public fcnpc0_OnGameModeInit () in gm.amx
+[16:31:15] #6 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[16:31:15] #7 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[16:31:15] #8 native CallLocalFunction () in samp-server.exe
+[16:31:15] #9 0000058c in public OnGameModeInit () in gm.amx
+[16:35:54] Long callback execution detected (hang or performance issue)
+[16:35:54] AMX backtrace:
+[16:35:54] #0 000a0294 in public ASC_OnPlayerConnect (201) in gm.amx
+[16:35:54] #1 000975d0 in public rAgc_OnPlayerConnect (201) in gm.amx
+[16:35:54] #2 00094678 in public rAGM_OnPlayerConnect (201) in gm.amx
+[16:35:54] #3 00094070 in public NA_OnPlayerConnect (201) in gm.amx
+[16:35:54] #4 000138d8 in public SSCANF_OnPlayerConnect (201) in gm.amx
+[16:35:54] #5 00000e64 in public OnPlayerConnect (201) in gm.amx
+[16:35:54] #6 native FCNPC_Create () in FCNPC.DLL
+[16:35:54] #7 00216854 in public PlayerTimer (0) in gm.amx
+[03:18:39] Long callback execution detected (hang or performance issue)
+[03:18:41] AMX backtrace:
+[03:18:41] #0 0001966c in ?? () in gm.amx
+[03:18:41] #1 0009deb4 in public fcnpc0_OnGameModeInit () in gm.amx
+[03:18:41] #2 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[03:18:41] #3 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[03:18:41] #4 native CallLocalFunction () in samp-server.exe
+[03:18:41] #5 0000058c in public OnGameModeInit () in gm.amx
+[12:15:44] Long callback execution detected (hang or performance issue)
+[12:15:44] AMX backtrace:
+[12:15:44] #0 00009c5c in ?? (543526412, 543525900, 543525388, 128, 128) in gm.amx
+[12:15:44] #1 00009424 in ?? (543528112, -1, 0) in gm.amx
+[12:15:44] #2 000086c0 in ?? (543528112, 543188144, 543528012, 16, 542507516) in gm.amx
+[12:15:44] #3 00008868 in ?? (543528112, 543188144, 542507516) in gm.amx
+[12:15:44] #4 001ca13c in ?? () in gm.amx
+[12:15:44] #5 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[12:15:44] #6 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[12:15:44] #7 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[12:15:44] #8 native CallLocalFunction () in samp-server.exe
+[12:15:44] #9 0000058c in public OnGameModeInit () in gm.amx
+[12:33:57] Long callback execution detected (hang or performance issue)
+[12:33:57] AMX backtrace:
+[12:33:57] #0 00132874 in ?? (28, 1160293349, -996856630, 1116266438, 1, 0, 0, 66666, -1, 0) in gm.amx
+[12:33:57] #1 001cb310 in ?? (45) in gm.amx
+[12:33:57] #2 001ca3f8 in ?? () in gm.amx
+[12:33:57] #3 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[12:33:57] #4 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[12:33:57] #5 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[12:33:57] #6 native CallLocalFunction () in samp-server.exe
+[12:33:57] #7 0000058c in public OnGameModeInit () in gm.amx
+[12:45:07] Long callback execution detected (hang or performance issue)
+[12:45:07] AMX backtrace:
+[12:45:07] #0 001caf30 in ?? (17) in gm.amx
+[12:45:07] #1 001ca44c in ?? () in gm.amx
+[12:45:07] #2 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[12:45:07] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[12:45:07] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[12:45:07] #5 native CallLocalFunction () in samp-server.exe
+[12:45:07] #6 0000058c in public OnGameModeInit () in gm.amx
+[13:09:43] Long callback execution detected (hang or performance issue)
+[13:09:43] AMX backtrace:
+[13:09:43] #0 00009978 in ?? (543528512, -1, 0) in gm.amx
+[13:09:43] #1 000086c0 in ?? (543528512, 543188544, 543528412, 16, 542507516) in gm.amx
+[13:09:43] #2 00008868 in ?? (543528512, 543188544, 542507516) in gm.amx
+[13:09:43] #3 001ca388 in ?? () in gm.amx
+[13:09:43] #4 0009eaac in public fcnpc0_OnGameModeInit () in gm.amx
+[13:09:43] #5 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[13:09:43] #6 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[13:09:43] #7 native CallLocalFunction () in samp-server.exe
+[13:09:43] #8 0000058c in public OnGameModeInit () in gm.amx
+[17:39:39] Long callback execution detected (hang or performance issue)
+[17:39:39] AMX backtrace:
+[17:39:39] #0 001cb10c in ?? (114) in gm.amx
+[17:39:39] #1 001c9b5c in ?? () in gm.amx
+[17:39:39] #2 001ca09c in ?? () in gm.amx
+[17:39:39] #3 0012f260 in public Reloginho2 () in gm.amx
+[13:52:41] Long callback execution detected (hang or performance issue)
+[13:52:41] AMX backtrace:
+[13:52:41] #0 00174d84 in ?? () in gm.amx
+[13:52:41] #1 0009e5f4 in public fcnpc0_OnGameModeInit () in gm.amx
+[13:52:41] #2 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[13:52:41] #3 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[13:52:41] #4 native CallLocalFunction () in samp-server.exe
+[13:52:41] #5 0000058c in public OnGameModeInit () in gm.amx
+[13:58:31] Long callback execution detected (hang or performance issue)
+[13:58:31] AMX backtrace:
+[13:58:31] #0 002095d4 in ?? (96) in gm.amx
+[13:58:31] #1 0009a4b0 in public FCNPC_OnSpawn (201) in gm.amx
+[11:59:55] Long callback execution detected (hang or performance issue)
+[11:59:57] AMX backtrace:
+[11:59:57] #0 0017311c in ?? (874, 1153652341, -992599797, 1085385631, 0, 0, -1034483144, -1, -1) in gm.amx
+[11:59:57] #1 00174b84 in ?? () in gm.amx
+[11:59:57] #2 0009e5f4 in public fcnpc0_OnGameModeInit () in gm.amx
+[11:59:57] #3 0000bd30 in public SSCANF_OnGameModeInit () in gm.amx
+[11:59:57] #4 00000d90 in public zcmd_OnGameModeInit () in gm.amx
+[11:59:57] #5 native CallLocalFunction () in samp-server.exe
+[11:59:57] #6 0000058c in public OnGameModeInit () in gm.amx

@@ -216,23 +216,6 @@ static const sAnimList[][50] =
 };
 
 
-// public FCNPC_OnReachDestination(npcid) {
-//     printf("[DEBUG] NPC %d reached destination", npcid);
-
-//     new Float:x, Float:y, Float:z;
-//     new Float:tx, Float:ty, Float:tz;
-//     FCNPC_GetPosition(npcid, x, y, z);
-//     // Ambil posisi target (misalnya player terdekat)
-//     GetPlayerPos(targetid, tx, ty, tz);
-
-//     if(CA_RayCastLine(x, y, z, tx, ty, tz, tx, ty, tz)) {
-//         printf("[DEBUG] Collision detected"); 
-//     }
-//     return 1;
-// }
-
-// Cek collision detection
-
 
 
 msa(cor, mens[])
@@ -404,11 +387,6 @@ public OnPlayerPickUpDynamicPickup(playerid, pickupid)
 
 public FCNPC_OnSpawn(npcid)
 {
-
-	printf("[DEBUG] NPC %d spawned", npcid);
-    // Set mode pathfinding yang lebih basic jika ColAndreas bermasalah
-    FCNPC_SetMoveMode(npcid, FCNPC_MOVE_MODE_MAPANDREAS);
-
 	new i = ID_Zombie[npcid];
 	if(i != -1)
 	{
@@ -452,9 +430,9 @@ public FCNPC_OnDeath(npcid, killerid, reason)
 			        {
 			            pInfo[killerid][pZombies] ++;
 			            pInfo[killerid][pXPH] += 5;
-						format(sss, 150, "You killed a zombie using %s.", nome_arma(reason));
+						format(sss, 150, "Kamu membunuh zombie dengan menggunakan %s.", nome_arma(reason));
 						ms(killerid, 3, sss);
-						ms(killerid, 3, "You earned 5 XP, zombie equipment has been dropped.");
+						ms(killerid, 3, "Kamu mendapat 5 XP, peralatan zombie sudah dijatuhkan.");
 
 						if(pInfo[killerid][pClasse] == 3)
 						{
@@ -499,6 +477,7 @@ public FCNPC_OnDeath(npcid, killerid, reason)
 	}
 	return 1;
 }
+
 // ketika game mulai
 public OnGameModeInit()
 {
